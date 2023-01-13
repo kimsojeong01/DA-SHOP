@@ -59,4 +59,4 @@ table {
 .montserrat { font-family: 'Montserrat', sans-serif; }
 .pretendard { font-family: 'Pretendard-Regular', sans-serif; }
 
-body { font-family: 'Pretendard', sans-serif; }
+body { font-family: 'Pretendard', sans-serif; box-sizing: border-box;}
